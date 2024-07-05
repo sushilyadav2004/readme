@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sushil yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushilyadav2004&label=Profile%20views&color=0e75b6&style=flat" alt="sushilyadav2004" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sushilyadav2004&label=Profile%20views&color=0e75b6&style=flat" alt="sushilyadav2004" /> </p>
 
 - 🌱 I’m currently learning **bsc.IT**
 
